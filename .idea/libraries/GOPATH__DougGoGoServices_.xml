@@ -1,0 +1,62 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;DougGoGoServices&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../palindrome" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../packagework" />
+      <root url="file://$PROJECT_DIR$/../httprouter" />
+      <root url="file://$PROJECT_DIR$/../dougExpenseManager" />
+      <root url="file://$PROJECT_DIR$/../mypackage" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../node_modules" />
+      <root url="file://$PROJECT_DIR$/../GoWebApplication" />
+      <root url="file://$PROJECT_DIR$/../pong_matcher_go" />
+      <root url="file://$PROJECT_DIR$/../signatures" />
+      <root url="file://$PROJECT_DIR$/../martinitest" />
+      <root url="file://$PROJECT_DIR$/../go-web-book-src" />
+      <root url="file://$PROJECT_DIR$/../alice" />
+      <root url="file://$PROJECT_DIR$/../9fans.net" />
+      <root url="file://$PROJECT_DIR$/../BookHelloWorld" />
+      <root url="file://$PROJECT_DIR$/../tns-restful-json-api" />
+      <root url="file://$PROJECT_DIR$/../fib" />
+      <root url="file://$PROJECT_DIR$/../labix.org" />
+      <root url="file://$PROJECT_DIR$/../FirstGo" />
+      <root url="file://$PROJECT_DIR$/../TeaApi" />
+      <root url="file://$PROJECT_DIR$/../MeditationTrackerAPIs" />
+      <root url="file://$PROJECT_DIR$/../logxi" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../palindrome" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../packagework" />
+      <root url="file://$PROJECT_DIR$/../httprouter" />
+      <root url="file://$PROJECT_DIR$/../dougExpenseManager" />
+      <root url="file://$PROJECT_DIR$/../mypackage" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../node_modules" />
+      <root url="file://$PROJECT_DIR$/../GoWebApplication" />
+      <root url="file://$PROJECT_DIR$/../pong_matcher_go" />
+      <root url="file://$PROJECT_DIR$/../signatures" />
+      <root url="file://$PROJECT_DIR$/../martinitest" />
+      <root url="file://$PROJECT_DIR$/../go-web-book-src" />
+      <root url="file://$PROJECT_DIR$/../alice" />
+      <root url="file://$PROJECT_DIR$/../9fans.net" />
+      <root url="file://$PROJECT_DIR$/../BookHelloWorld" />
+      <root url="file://$PROJECT_DIR$/../tns-restful-json-api" />
+      <root url="file://$PROJECT_DIR$/../fib" />
+      <root url="file://$PROJECT_DIR$/../labix.org" />
+      <root url="file://$PROJECT_DIR$/../FirstGo" />
+      <root url="file://$PROJECT_DIR$/../TeaApi" />
+      <root url="file://$PROJECT_DIR$/../MeditationTrackerAPIs" />
+      <root url="file://$PROJECT_DIR$/../logxi" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
